@@ -46,19 +46,18 @@ This project uses SQL to analyze a Netflix dataset with ~15 key questions. Each 
 ## 🧠 Why This Project Stands Out  
 - Covers **15+ business questions** with concise SQL—demonstrates analytical thinking and SQL depth.  
 - Each query linked to a **strategic insight**, showcasing storytelling ability.  
-- **Clean documentation**—ideal for recruiters or technical reviewers (per best practices).  
-  :contentReference[oaicite:1]{index=1}
+- 
 
 ---
 
 ## 👤 About the Author  
 **Manish Jangir**  
-- GitHub: [your-link]  
+- GitHub: [https://github.com/KDemmy]  
 - Portfolio: SQL, BI dashboard, and product analytics projects  
-- Email: manishjangir@email.com
+- Email: manish.khandhelwal@email.com
 
 ---
 
 ## 🔗 References  
-- Project structure inspired by public Netflix SQL repos and README templates from Kaggle & GitHub sources. :contentReference[oaicite:2]{index=2}  
-- README best practices adapted from project documentation guides. :contentReference[oaicite:3]{index=3}
+- Project structure inspired by public Netflix SQL repos and Dataset from Kaggle & GitHub sources. 
+
